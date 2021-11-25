@@ -1,0 +1,5 @@
+* A sigla SHA1 significa (secure hash algorithm), algoritmo de hash seguro é um conjunto de funções hash criptográficas projetadas pela NSA (agência de segurança nacional dos EUA).
+
+  
+
+* O Gith bash é um terminal extendido para otimizar o uso do Git.
